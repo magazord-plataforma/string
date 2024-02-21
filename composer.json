@@ -1,5 +1,5 @@
 {
-    "name": "opis/string",
+    "name": "magazord-plataforma/string",
     "description": "Multibyte strings as objects",
     "keywords": ["opis", "string", "utf-8", "multi-byte", "string manipulation"],
     "homepage": "https://opis.io/string",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.0 || ^8.0",
         "ext-json": "*",
         "ext-iconv": "*"
     },
